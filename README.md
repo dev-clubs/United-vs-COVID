@@ -19,10 +19,17 @@ This repository is meant to keep tack of progress and contribuitons made by this
 
 **Index**
 
+## Projects
+Name | Challenge | Tactics | Link
+-----|-----------|---------|------
+Evaluating | Helping SMALL BUSINESSES to work around the crisis restrictions so they can supply efficiently. | Evaluating... | ...
+Evaluating | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their  VITAL STATUS REAL TIME | Evaluating | ...
+Evaluating | Community platform to detect FAKE NEWS and rumors related to the virus. | Evaluating | ...
+Evaluating | DATA MODELING of infection hotspots by tracking victims personal transit. | Evaluating | ...
 
 ## Promote this effort
 Besides coding, you can also help us find talent by sharing our call on social media with your contacts:<br/>
-[Share our  call >](.../#)
+[Share our  call >](#)
 
 # [ES] Sobre la iniciativa
 GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
@@ -31,6 +38,10 @@ Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el
 [Enlistarme >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
 
 Este repositorio mantendrá un registro del progreso hecho por los voluntarios de esta iniciativa.
+
+## Proyectos
+
+## Promueve esta iniciativa
 
 # [PT] Sobre
 Nós precisamos da sua ajuda. If you would like to moderate this repo please leave your contact in the "Deployment Management" page at the Friends Against Covid record sheet.
