@@ -28,9 +28,9 @@ This repository is meant to keep tack of progress and contribuitons made by this
 ## Projects
 Name | Field | Challenge | Link
 -----|-----------|---------|------
-TBD | RATION SUPPLY | Improve the distribution of resources (food, clothing) to people with fewer resources. Not only of extreme poverty but those who start to get less income due to unemployment. | [Challenge(A)](https://discord.gg/AndMnqX)
-TBD | DATA MODELING | To identify of infection hotspots by tracking victims personal transit. | [Challenge(B)](https://discord.gg/AndMnqX)
-TBD | PERSONAL ASSISTANCE | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their VITAL STATUS REAL TIME | [Challenge(C)](https://discord.gg/AndMnqX)
+TBD | RATION SUPPLY | Improve the distribution of resources (food, clothing) to people with fewer resources. Not only of extreme poverty but those who start to get less income due to unemployment. | [Challenge(A)](https://discord.gg/Pez6U9F)
+TBD | DATA MODELING | To identify of infection hotspots by tracking victims personal transit. | [Challenge(B)](https://discord.gg/Pez6U9F)
+TBD | PERSONAL ASSISTANCE | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their VITAL STATUS REAL TIME | [Challenge(C)](https://discord.gg/Pez6U9F)
 TBD | EDUCATION | Detecting  FAKE NEWS and rumors related to the virus and crisis incidents. | ...
 
 ## Promote this effort
@@ -58,9 +58,9 @@ Este repositorio mantendrá un registro del progreso hecho por los voluntarios d
 ## Proyectos
 Nombre | Campo | Misión | Link
 -------|------|-----------|------
-TBD | ABASTECIMIENTO | Mejorar la distribución de los recursos (comida, ropa,etc) hacia las personas con menos recursos. | [Challenge(A)](https://discord.gg/AndMnqX)
-TBD | CIENCIA DE DATOS | Trackeo o mapeo del movimiento de personas infectadas para determinar posibles focos infecciosos, así como posibles contagiados. | [Challenge(B)](https://discord.gg/AndMnqX)
-TBD | ASISTENCIA PERSONAL | Monitorear en tiempo real el ESTADO VITAL de infectados en situación crítica para entregarles ayuda moral. | [Challenge(C)](https://discord.gg/AndMnqX)
+TBD | ABASTECIMIENTO | Mejorar la distribución de los recursos (comida, ropa,etc) hacia las personas con menos recursos. | [Challenge(A)](https://discord.gg/Pez6U9F)
+TBD | CIENCIA DE DATOS | Trackeo o mapeo del movimiento de personas infectadas para determinar posibles focos infecciosos, así como posibles contagiados. | [Challenge(B)](https://discord.gg/Pez6U9F)
+TBD | ASISTENCIA PERSONAL | Monitorear en tiempo real el ESTADO VITAL de infectados en situación crítica para entregarles ayuda moral. | [Challenge(C)](https://discord.gg/Pez6U9F)
 TBD | EDUCACIÓN | Plataforma comunitaria para detectar NOTICIAS FALSAS y rumores relacionadas al virus y la pandemia. | ...
 
 ## Promueve esta iniciativa
