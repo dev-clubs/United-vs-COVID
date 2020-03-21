@@ -70,9 +70,27 @@ Otra forma de aportar a este proyecto es invitando a talento potencial a partici
 
 <br/><br/><br/>
 # 🇧🇷 Sobre
-Nós precisamos da sua ajuda. If you would like to moderate this repo please leave your contact in the "Deployment Management" page at the Friends Against Covid record sheet.
+O GDG está promovendo uma força tarefa de colaboração de todos os desenvolvedores. Comunidades em todo o continente americano estão se unindo para construir soluções tecnologicas que podem causar um impacto positivo nessa nova emergência global.
+Se você quiser ajudar, faça sua inscrição e descreva suas habilidades no link abaixo:<br/>
+<br/>
+[Seja Voluntário >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
+
+Esse repositório manterá um registro de todo o progresso e contribuições feitas por essa iniciativa.
+
+<br/><br/>
+
+**Index**
+* <a href="#projetos">Projetos</a>
+* <a href="#promova-essa-iniciativa">Promova essa iniciativa</a>
 
 ## Projetos
 Name | Challenge | Tactics | Link
 -----|-----------|---------|------
 Avaliando | Auxiliar pequenos empreendimentos a enfrentarem essa crise, principalmente com a divulgação das suas atividades. | Avaliando | ...
+Avaliando | Auxiliar a criar pontes entre quem tem algo para doar e quem precisa receber. | Avaliando | ...
+Avaliando | Criar uma plataforma gratuita web e mobile de atendimento médico por telemedicina, para ajudar pacientes contaminados e não contaminados pelo Covid-19 | Avaliando | ...
+Avalinado | Site/Plataforma para auxiliar prefeituras(municipalidads) no controle de recebimento de casos, bem como na triagem de casos suspeitos, confirmados ou descartados. | Avaliando | ...
+
+## Promova essa iniciativa
+Outra forma de auxiliar esse projeto é convidando pessoas com potencial de participar. Você pode compartilhar nossa convocatória com os seus contatos<br/>
+[Compartilhar >](#)
