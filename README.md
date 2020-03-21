@@ -1,5 +1,5 @@
 <p align="center">
-  🇺🇸 <a href="#about-this-initiative">English</a> | 🇪🇸 <a href="#sobre-la-iniciativa">Español</a> | 🇧🇷 <a href="#sobre">Português</a>
+  🇺🇸 <a href="#-about-this-initiative">English</a> | 🇪🇸 <a href="#-sobre-la-iniciativa">Español</a> | 🇧🇷 <a href="#-sobre">Português</a>
 </p>
 <br/>
 <p align="center">
