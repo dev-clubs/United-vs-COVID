@@ -1,5 +1,5 @@
 <p align="center">
-  🇬🇧 <a href="#en-about-this-initiative">English</a> | 🇪🇸 <a href="#es-sobre-la-iniciativa">Español</a> | 🇧🇷 <a href="#pt-sobre">Português</a>
+  🇺🇸 <a href="#about-this-initiative">English</a> | 🇪🇸 <a href="#sobre-la-iniciativa">Español</a> | 🇧🇷 <a href="#sobre">Português</a>
 </p>
 <br/>
 <p align="center">
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-# [EN] About this initiative
+# 🇺🇸 About this initiative
 GDG is promoting collaboration from all Dev. Communities around the Americas to come together and build technologies that can make a positive impact at this new Global Emergency.<br/>
 If you want to help, you can enlist your skills in the following record:<br/>
 <br/>
@@ -39,7 +39,7 @@ Besides coding, you can also help us find talent by sharing our call on social m
 
 
 <br/><br/><br/>
-# [ES] Sobre la iniciativa
+# 🇪🇸 Sobre la iniciativa
 GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
 Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el siguiente enlace:<br/>
 <br/>
@@ -69,7 +69,7 @@ Otra forma de aportar a este proyecto es invitando a talento potencial a partici
 
 
 <br/><br/><br/>
-# [PT] Sobre
+# 🇧🇷 Sobre
 Nós precisamos da sua ajuda. If you would like to moderate this repo please leave your contact in the "Deployment Management" page at the Friends Against Covid record sheet.
 
 ## Projetos
