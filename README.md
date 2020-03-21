@@ -40,7 +40,7 @@ Besides coding, you can also help us find talent by sharing our call on social m
 
 <br/><br/><br/>
 # 🇪🇸 Sobre la iniciativa
-GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
+GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global con tecnología.<br/>
 Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el siguiente enlace:<br/>
 <br/>
 [Enlistarme >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
