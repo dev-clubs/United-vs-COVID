@@ -22,7 +22,7 @@ This repository is meant to keep tack of progress and contribuitons made by this
 
 ## Promote this effort
 Besides coding, you can also help us find talent by sharing our call on social media with your contacts:<br/>
-[Share our  call >](/#)
+[Share our  call >](.../#)
 
 # [ES] Sobre la iniciativa
 GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
