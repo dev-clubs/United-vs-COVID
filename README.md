@@ -8,7 +8,7 @@ This repository will keep tack of progress and contribuitons made by the GDG com
 
 # [ES] CORONA Global Hackathon
 GDG ha comenzado a promoveer colaborar en el ecosistema programador de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
-Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el siguiente enlace:
+Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el siguiente enlace:<br/>
 [Enlistarme >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
 
 Este repositorio mantendrá un registro del progreso hecho por los voluntarios de esta iniciativa.
