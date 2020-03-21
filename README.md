@@ -34,6 +34,8 @@ TBD | Helping severe to CRITICAL VICTIMS stay online so they can list their huma
 Besides coding, you can also help us find talent by sharing our call on social media with your contacts:<br/>
 [Share our  call >](#)
 
+
+<br/><br/><br/>
 # [ES] Sobre la iniciativa
 GDG ha comenzado a promoveer la colaboración del ecosistema ingeniero de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
 Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el siguiente enlace:<br/>
@@ -62,6 +64,8 @@ Evaluando | Trackeo o mapeo del movimiento de personas infectadas para determina
 Otra forma de aportar a este proyecto es invitando a talento potencial a participar. Considera compartir nuestra convocatoria con tus contactos para contar con el personal suficiente:
 [Compartir convocatoria >](#)
 
+
+<br/><br/><br/>
 # [PT] Sobre
 Nós precisamos da sua ajuda. If you would like to moderate this repo please leave your contact in the "Deployment Management" page at the Friends Against Covid record sheet.
 
