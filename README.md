@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://i.imgur.com/yacde6U.png"/><img>
 </p>
+<br/>
+<br/>
+<br/>
+
 # [EN] About this initiative
 GDG is promoting collaboration around all Dev. Communities around the americas to come together and build technologies that can make an impact at this new Global Emergency.<br/>
 If you want to help, you can enlist your deployment skills in the following record:<br/>
