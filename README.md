@@ -5,7 +5,7 @@ If you want to help, you can enlist your deployment skills in the following reco
 <br/>
 [Volunteer now >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
 
-This repository will keep tack of progress and contribuitons made by the GDG community.
+This repository will keep tack of progress and contribuitons made by this project.
 
 # [ES] CORONA Global Hackathon
 GDG ha comenzado a promoveer colaborar en el ecosistema programador de todas partes de America para hacer un esfuerzo unido que pueda hacer frente a esta nueva Emergencia Global.<br/>
