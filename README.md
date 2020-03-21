@@ -93,4 +93,6 @@ Avalinado | Governamental | Site/Plataforma para auxiliar prefeituras(municipali
 
 ## Promova essa iniciativa
 Outra forma de auxiliar esse projeto é convidando pessoas com potencial de participar. Você pode compartilhar nossa convocatória com os seus contatos<br/>
-[Compartilhar >](#)
+[Compartilhe no Whatsapp >](whatsapp://send?text=O GDG está promovendo uma força tarefa de colaboração de todos os desenvolvedores. Comunidades em todo o continente americano estão se unindo para construir soluções tecnologicas que podem causar um impacto positivo nessa nova emergência global. Se você quiser ajudar, faça sua inscrição e descreva suas habilidades no link >>>>>
+         
+https://github.com/Open-GDG/CORONA-Hacks)
