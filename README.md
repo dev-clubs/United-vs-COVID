@@ -18,14 +18,13 @@ If you want to help, you can enlist your skills in the following record:<br/>
 This repository is meant to keep tack of progress and contribuitons made by this project.
 
 **Index**
+* <a href="#projects">Projects</a>
+* <a href="#promote-this-effort">Promote</a>
 
 ## Projects
 Name | Challenge | Tactics | Link
 -----|-----------|---------|------
-Evaluating | Helping SMALL BUSINESSES to work around the crisis restrictions so they can supply efficiently. | Evaluating... | ...
-Evaluating | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their  VITAL STATUS REAL TIME | Evaluating | ...
-Evaluating | Community platform to detect FAKE NEWS and rumors related to the virus. | Evaluating | ...
-Evaluating | DATA MODELING of infection hotspots by tracking victims personal transit. | Evaluating | ...
+TBD | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their VITAL STATUS REAL TIME | TBD | ...
 
 ## Promote this effort
 Besides coding, you can also help us find talent by sharing our call on social media with your contacts:<br/>
@@ -40,8 +39,21 @@ Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el
 Este repositorio mantendrá un registro del progreso hecho por los voluntarios de esta iniciativa.
 
 ## Proyectos
+Nombre | Challenge | Solución | Link
+-------|-----------|----------|------
+Evaluando | Abastecer a personas de bajos recursos con VIVERES (comida, agua, productos de higiene). | Evaluando | ...
+Evaluando | Monitorear en tiempo real el ESTADO VITAL de infectados en situación crítica para entregarles ayuda moral. | Evaluando | ...
+Evaluando | Plataforma comunitaria para detectar NOTICIAS FALSAS y rumores relacionadas al virus y la pandemia. | Evaluando | ...
+Evaluando | Trackeo o mapeo del movimiento de personas infectadas para determinar posibles focos infecciosos, así como posibles contagiados. | Evaluando | ...
 
 ## Promueve esta iniciativa
+Otra forma de aportar a este proyecto es invitando a talento potencial a participar. Considera compartir nuestra convocatoria con tus contactos para contar con el personal suficiente:
+[Compartir convocatoria >](#)
 
 # [PT] Sobre
 Nós precisamos da sua ajuda. If you would like to moderate this repo please leave your contact in the "Deployment Management" page at the Friends Against Covid record sheet.
+
+## Projetos
+Name | Challenge | Tactics | Link
+-----|-----------|---------|------
+Avaliando | Auxiliar pequenos empreendimentos a enfrentarem essa crise, principalmente com a divulgação das suas atividades. | Avaliando | ...
