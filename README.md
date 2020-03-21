@@ -26,9 +26,12 @@ This repository is meant to keep tack of progress and contribuitons made by this
 <br/>
 
 ## Projects
-Name | Challenge | Tactics | Link
+Name | Field | Challenge | Link
 -----|-----------|---------|------
-TBD | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their VITAL STATUS REAL TIME | TBD | ...
+TBD | RATION SUPPLY | Improve the distribution of resources (food, clothing) to people with fewer resources. Not only of extreme poverty but those who start to get less income due to unemployment. | [Challenge(B)](https://discord.gg/AndMnqX)
+TBD | DATA MODELING | To identify of infection hotspots by tracking victims personal transit. | [Challenge(A)](https://discord.gg/AndMnqX)
+TBD | PERSONAL ASSISTANCE | Helping severe to CRITICAL VICTIMS stay online so they can list their humanitarian needs and make public their VITAL STATUS REAL TIME | [Challenge(C)](https://discord.gg/AndMnqX)
+TBD | EDUCATION | Detecting  FAKE NEWS and rumors related to the virus and crisis incidents. | ...
 
 ## Promote this effort
 Besides coding, you can also help us find talent by sharing our call on social media with your contacts:<br/>
@@ -53,12 +56,12 @@ Este repositorio mantendrá un registro del progreso hecho por los voluntarios d
 <br/>
 
 ## Proyectos
-Nombre | Challenge | Solución | Link
--------|-----------|----------|------
-Evaluando | Abastecer a personas de bajos recursos con VIVERES (comida, agua, productos de higiene). | Evaluando | ...
-Evaluando | Monitorear en tiempo real el ESTADO VITAL de infectados en situación crítica para entregarles ayuda moral. | Evaluando | ...
-Evaluando | Plataforma comunitaria para detectar NOTICIAS FALSAS y rumores relacionadas al virus y la pandemia. | Evaluando | ...
-Evaluando | Trackeo o mapeo del movimiento de personas infectadas para determinar posibles focos infecciosos, así como posibles contagiados. | Evaluando | ...
+Nombre | Campo | Misión | Link
+-------|------|-----------|------
+TBD | ABASTECIMIENTO | Mejorar la distribución de los recursos (comida, ropa,etc) hacia las personas con menos recursos. | [Challenge(B)](https://discord.gg/AndMnqX)
+TBD | CIENCIA DE DATOS | Trackeo o mapeo del movimiento de personas infectadas para determinar posibles focos infecciosos, así como posibles contagiados. | [Challenge(A)](https://discord.gg/AndMnqX)
+TBD | ASISTENCIA PERSONAL | Monitorear en tiempo real el ESTADO VITAL de infectados en situación crítica para entregarles ayuda moral. | [Challenge(C)](https://discord.gg/AndMnqX)
+TBD | EDUCACIÓN | Plataforma comunitaria para detectar NOTICIAS FALSAS y rumores relacionadas al virus y la pandemia. | ...
 
 ## Promueve esta iniciativa
 Otra forma de aportar a este proyecto es invitando a talento potencial a participar. Considera compartir nuestra convocatoria con tus contactos para contar con el personal suficiente:
