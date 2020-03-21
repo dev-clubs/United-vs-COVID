@@ -17,9 +17,13 @@ If you want to help, you can enlist your skills in the following record:<br/>
 
 This repository is meant to keep tack of progress and contribuitons made by this project.
 
+<br/><br/>
+
 **Index**
 * <a href="#projects">Projects</a>
 * <a href="#promote-this-effort">Promote</a>
+
+<br/>
 
 ## Projects
 Name | Challenge | Tactics | Link
@@ -37,6 +41,14 @@ Si quieres **ofrecer tu ayuda como programador**, puedes hacer un registro en el
 [Enlistarme >](https://docs.google.com/spreadsheets/d/1IBM4kgflXM9yhyqE1YpA6Xpf8EVfLAMBVatx5FOwb_4/edit#gid=0)
 
 Este repositorio mantendrá un registro del progreso hecho por los voluntarios de esta iniciativa.
+
+<br/><br/>
+
+**Index**
+* <a href="#proyectos">Proyectos</a>
+* <a href="#promueve-esta-iniciativa">Promueve</a>
+
+<br/>
 
 ## Proyectos
 Nombre | Challenge | Solución | Link
